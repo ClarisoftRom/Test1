@@ -1,2 +1,7 @@
 a2
 pe server
+
+
+
+
+din dev1
