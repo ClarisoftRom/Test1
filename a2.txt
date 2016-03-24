@@ -1,3 +1,5 @@
 a2
 pe server
 sw1111
+
+din dev1
